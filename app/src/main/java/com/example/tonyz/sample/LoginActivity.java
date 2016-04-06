@@ -45,7 +45,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
      private static final int REQUEST_READ_CONTACTS = 0;
 
     /**
-     * A dummy authentication store chane comment containing known user names and passwords.
+     * A dummy authentication store chane last branch commentcomment containing known user names and passwords.
      * TODO: sample code remove new comment after connecting to a real authentication system.
      */
     private static final String[] DUMMY_CREDENTIALS = new String[]{
